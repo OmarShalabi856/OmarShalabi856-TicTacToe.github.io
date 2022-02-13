@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OmarShalabi856-TicTacToe.github.io/static/css/main.10f90d34.css",
+    "main.js": "/OmarShalabi856-TicTacToe.github.io/static/js/main.cef73639.js",
+    "static/js/787.6b0bed1b.chunk.js": "/OmarShalabi856-TicTacToe.github.io/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/OmarShalabi856-TicTacToe.github.io/index.html",
+    "main.10f90d34.css.map": "/OmarShalabi856-TicTacToe.github.io/static/css/main.10f90d34.css.map",
+    "main.cef73639.js.map": "/OmarShalabi856-TicTacToe.github.io/static/js/main.cef73639.js.map",
+    "787.6b0bed1b.chunk.js.map": "/OmarShalabi856-TicTacToe.github.io/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f90d34.css",
+    "static/js/main.cef73639.js"
+  ]
+}
